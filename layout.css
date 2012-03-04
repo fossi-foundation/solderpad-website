@@ -1,0 +1,214 @@
+/* for the larger browser */
+
+/* page */
+h2.logo {
+	float: left;
+}
+
+.topnav {
+	float: right;
+	clear: left;
+	min-height: 5em;
+}
+
+.topnav p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.page {
+	margin: 6em 0;
+}
+
+#article {
+	clear: both;
+}
+
+/* welcome */
+.aside .icon {
+	position: relative;
+	float: right;
+}
+
+ul {
+	margin-left: 0;
+}
+
+#register,
+#tour {
+	margin-bottom: 2em;
+	clear: both;
+}
+
+/* features */
+.features .threecols {
+	width: 28.6%;
+	float: left;
+	padding: 1%;
+	margin: 1em 0 2em 0;
+	min-height: 11em;
+}
+
+.features .threecols.col2 {
+	margin-left: 4.5%;
+}
+
+.features .threecols.col3 {
+	margin-right: 0;
+	margin-left: 0;
+	float: right;
+}
+
+/* form */
+
+fieldset {
+	clear: both;
+}
+
+/* button */
+.button {
+	display: inline-block;
+	margin-left: 1em;
+	display: inline-block;
+	float: right;
+}
+
+.profile .button,
+.project .button,
+.projects .button {
+	float: right;
+	margin-left: 1.2em;
+	position: relative;
+}
+
+.aside .button {
+	top: -0.5em;
+	position: relative;
+}
+
+
+/* profile */
+.about div.vcard {
+	clear: both;
+}
+
+.vcard img.photo {
+	float: left;
+	margin-top: 1em;
+	max-width: 7em;
+}
+
+.about h2 {
+	clear: both;
+}
+.about > .section {
+	border-top: 0;
+}
+
+.profile.aside {
+	margin-top: 1em;
+}
+
+.section > .vcard > p,
+.section > .vcard > div {
+	float: left;
+	width: 60%;
+	padding-left: 5%;
+}
+
+/* gallery */
+.gallery li {
+	width: 10em;
+	height: 12em;
+	float: left;
+	margin: 2em 1em;
+}
+
+
+
+/* projects list */
+ul.projects img {
+	float: right;
+	margin-left: 1em;
+	max-width: 200px;
+	position: relative;
+	top: -3em;
+	width: 32%;
+}
+
+/* project heading */
+.project .activity {
+	float: right;
+	width: 23%;
+	margin-top: 0;
+	border-top: 0;
+}
+
+/* project image */
+#description > img {
+	float: right;
+	width: 23%;
+	max-width: 450px;
+	margin-bottom: 1em;
+	margin-left: 1em;
+	margin-top: 0;
+	position: relative;
+}
+
+#description .licence {
+	clear: left;
+}
+
+.tags {
+	float: right;
+	text-align: right;
+}
+
+ul.embed {
+	float: right;
+	text-align:right;
+}
+
+.embed input {
+	width: 30em;
+	max-width: 100%;
+}
+
+iframe#browser {
+	display: block;
+	margin: 2em 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+	padding: 0;
+}
+
+/* part and tags pages */
+.column {
+	width: 66%;
+	float: left;
+	margin-bottom: 3em;
+	margin-right: 1%;
+	clear: left;
+}
+
+.aside {
+	width: 30%;
+	margin-left: 2%;
+	float: right;
+	margin-bottom: 3em;
+	overflow: hidden;
+}
+
+.pagedate {
+	position: relative;
+	float: right;
+	top: -1.5em;
+	font-size: 0.75em;
+}
+
+/* bom */
+th.description {
+	width: 50%;
+}
+
