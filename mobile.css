@@ -30,7 +30,7 @@ sup {
 /* page */
 body {
 	background-color: #FFF;
-	border-top: 2px solid #E00125;
+	border-top: 2px solid #B18C73;
 	color: #323232;
 	font-family: serif;
 	line-height: 1.4em;
@@ -163,7 +163,7 @@ h2.logo {
 
 h2.logo a,
 h2.logo a:hover {
-	color: #E00125;
+	color: #B18C73;
 	font-family: sans-serif;
 	font-style: normal;
 	font-size: 1.0em;
@@ -238,7 +238,7 @@ h3 a.nickname {
 /* footer */
 #footer {
 	background-color: #B18C73;
-	border-top: 2px  solid #E00125;
+	border-top: 2px  solid #B18C73;
 	clear: both;
 	color: #FFF;
 }
