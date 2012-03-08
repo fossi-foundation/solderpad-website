@@ -23,6 +23,10 @@ sup {
 	vertical-align: super;
 }
 
+strong {
+	font-weight: bold;
+}
+
 :focus {
 	outline: 0;
 }
