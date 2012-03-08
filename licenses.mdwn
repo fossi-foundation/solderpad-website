@@ -14,7 +14,7 @@ THIS LICENCE IS A PERMISSIVE LICENCE, SO DO NOT USE IT IF YOU WANT TO AVOID THE 
 
 [Solderpad Hardware License version 0.51](SHL-0.51)
 
-Updated 08/03/12: removed "extraction" from phrase "database extraction rights" in the definition of Rights.
+__Updated 08/03/12__: removed "extraction" from phrase "database extraction rights" in the definition of Rights.
 
 ### Old
 
