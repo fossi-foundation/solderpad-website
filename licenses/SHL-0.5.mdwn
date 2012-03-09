@@ -1,6 +1,6 @@
-﻿# Note that a newer version of this license is available
+﻿__AN UPDATED VERSION OF THIS LICENSE IS AVAILABLE__
 
-__Please see [the main licenses page](/licenses/)__.
+Please see [the main licenses page](/licenses/).
 
 # SOLDERPAD HARDWARE LICENSE version 0.5
 
