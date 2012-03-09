@@ -1,4 +1,4 @@
-﻿## Note that a newer version of this license is available
+﻿# Note that a newer version of this license is available
 
 __Please see [the main licenses page](/licenses/)__.
 
