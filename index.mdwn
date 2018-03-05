@@ -1,7 +1,7 @@
 # Welcome
 
-At the present time this wiki is only really being used to host the Solderpad Hardware License.
+At the present time this wiki is only really being used to host the Solderpad Hardware Licence.
 
-* [[Solderpad Hardware License|licenses]]
+* [[Solderpad Hardware Licence|licenses]]
 
 If you're looking for SolderPad the service, head over to [solderpad.com](http://solderpad.com).
