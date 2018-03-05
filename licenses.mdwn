@@ -1,10 +1,10 @@
-# The Solderpad Hardware License
+# The Solderpad Hardware Licence
 
-The Solderpad Hardware License is closely based on the [Apache 2.0 software license](http://www.apache.org/licenses/LICENSE-2.0.html) (and in fact, if you adopt this license with a preamble, one option for the licensee is to choose to use unported Apache 2.0). The license differs from Apache mainly in that it covers additional forms of IP which are not covered by Apache (such as database extraction right), and also adjusts the terminology slightly to make it more understandable in a hardware context. It also works as a software license (arguably better than Apache, mainly because of its adoption of IP other than copyright, patent and trade mark). 
+The Solderpad Hardware Licence is closely based on the [Apache 2.0 software license](http://www.apache.org/licenses/LICENSE-2.0.html) (and in fact, if you adopt this licence with a preamble, one option for the licensee is to choose to use unported Apache 2.0). The licence differs from Apache mainly in that it covers additional forms of IP which are not covered by Apache (such as database extraction right), and also adjusts the terminology slightly to make it more understandable in a hardware context. It also works as a software licence (arguably better than Apache, mainly because of its adoption of IP other than copyright, patent and trade mark). 
 
 This patch was written by [Andrew Katz](http://twitter.com/andrewjskatz), with valuable input from [Andrew Back](http://carrierdetect.com), [Larry Rosen](http://www.rosenlaw.com/rosen.htm) and others.
 
-The license is currently undergoing conformance testing and approval from a number of bodies, but since there is the option to relicense under Apache 2.0, you know that this licence is conformant with the criteria of any entity which has approved Apache 2.0 (including [OSI](http://www.opensource.org) and [FSF](http://www.fsf.org)).
+The licence is currently undergoing conformance testing and approval from a number of bodies, but since there is the option to relicense under Apache 2.0, you know that this licence is conformant with the criteria of any entity which has approved Apache 2.0 (including [OSI](http://www.opensource.org) and [FSF](http://www.fsf.org)).
 
 THIS LICENCE IS A PERMISSIVE LICENCE, SO DO NOT USE IT IF YOU WANT TO AVOID THE POSSIBILITY OF VARIANTS OF YOUR WORK BECOMING NON-FREE.
 
@@ -12,10 +12,17 @@ THIS LICENCE IS A PERMISSIVE LICENCE, SO DO NOT USE IT IF YOU WANT TO AVOID THE 
 
 ### Latest
 
+[Solderpad Hardware Licence version 2.0](SHL-2.0)
+
+__Updated 05/03/18__: Many people (lawyers included) are familiar with Apache 2.0, and we had comments saying that it would be easier for those people to understand the Solderpad licence if it were presented as a single short document which acted as a wraparound to Apache 2.0, rather than presented as an edited version of it (even if the diffs are visible). This version is drafted with this in mind, and you should find it easier to understand. Like the previous versions, you can ignore the modifiers and treat it as plain Apache 2.0.
+
+We moved straight from 0.51 to 2.0, because people were using Solderpad 0.51 as de facto Solderpad 1.0, and because it’s a sufficiently large change in format (if not effect) for the step to be justified.
+
+### Old
+
 [Solderpad Hardware License version 0.51](SHL-0.51)
 
 __Updated 08/03/12__: removed "extraction" from phrase "database extraction rights" in the definition of Rights.
 
-### Old
 
 [Solderpad Hardware License version 0.5](SHL-0.5)
