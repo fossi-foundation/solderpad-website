@@ -13,17 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 locale: "en-GB"
 timezone: Europe/London
 title: Solderpad Hardware License
+subtitle: A FOSSi Foundation project
 email: info@fossi-foundation.org
 description: "A permissive license for free and open source hardware projects."
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: mint
+search: false
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+repository: "fossi-foundation/solderpad-website"
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show

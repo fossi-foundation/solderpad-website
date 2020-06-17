@@ -1,5 +1,12 @@
-﻿
-# SOLDERPAD HARDWARE LICENSE version 0.51
+﻿---
+permalink: /licenses/SHL-0.51/
+title: "Solderpad Hardware License v0.51"
+---
+
+> **AN UPDATED VERSION OF THIS LICENSE IS AVAILABLE.**
+>
+> Please see [the licenses page](/licenses/).
+{: .notice--warning}
 
 This license is based closely on the Apache License Version 2.0, but is not approved or endorsed by the Apache Foundation. A copy of the non-modified Apache License 2.0 can be found at http://www.apache.org/licenses/LICENSE-2.0.
 
