@@ -1,5 +1,0 @@
-This wiki is administered by [SolderPad](http://solderpad.com), and it is intended as a place where community resources can be hosted and developed. These may be to do with the use of solderpad.com, or not. However, resources and discussion etc. should generally be confined to the broader themes of open source hardware, electronics and manufacturing.
-
-At present the wiki can only be edited by the administrators, but it is planned this will soon change.
-
-Any questions concerning this wiki should be directed in the first instance to [Andrew Back](mailto:andrew@solderpad.com).
