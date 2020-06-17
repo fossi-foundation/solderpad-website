@@ -1,3 +1,5 @@
 main:
   - title: "License Versions"
     url: /licenses/
+  - title: "Governance"
+    url: /governance/

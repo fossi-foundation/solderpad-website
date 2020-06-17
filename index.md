@@ -7,3 +7,7 @@ The Solderpad Hardware License is closely based on the [Apache 2.0 software lice
 This patch was written by [Andrew Katz](http://twitter.com/andrewjskatz), with valuable input from [Andrew Back](https://abopen.com), [Larry Rosen](http://www.rosenlaw.com/rosen.htm) and others.
 
 The license is currently undergoing conformance testing and approval from a number of bodies, but since there is the option to relicense under Apache 2.0, you know that this license is conformant with the criteria of any entity which has approved Apache 2.0 (including [OSI](http://www.opensource.org) and [FSF](http://www.fsf.org)).
+
+---
+
+The Solderpad Hardware License is maintained by a governance committee which operates under the stewardship of [The Free and Open Source Silicon Foundation](https://fossi-foundation.org/).

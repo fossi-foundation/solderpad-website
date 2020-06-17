@@ -18,6 +18,7 @@ locale: "en-GB"
 timezone: Europe/London
 title: Solderpad Hardware License
 subtitle: A FOSSi Foundation project
+copyright: 2012-2020 Solderpad Hardware License contributors
 email: info@fossi-foundation.org
 description: "A permissive license for free and open source hardware projects."
 minimal_mistakes_skin: mint
