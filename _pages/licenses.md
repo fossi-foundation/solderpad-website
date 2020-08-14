@@ -3,8 +3,8 @@ permalink: /licenses/
 title: "Licenses"
 ---
 
-THIS LICENSE IS A PERMISSIVE LICENSE, SO DO NOT USE IT IF YOU WANT TO AVOID THE POSSIBILITY OF VARIANTS OF YOUR WORK BECOMING NON-FREE.
-{: .notice--danger}
+The Solderpad License is a permissive licence designed specifically for open hardware designs.
+{: .notice--info}
 
 ## Versions
 
